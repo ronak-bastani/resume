@@ -1,2 +1,2 @@
 # ronak-bastani
-رزومه
+https://ronak-bastani.github.io/resume/
